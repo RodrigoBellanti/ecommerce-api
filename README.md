@@ -477,7 +477,7 @@ src/main/java/com/ecommerce/ecommerce_api/
 
 **Rodrigo Bellanti**
 - GitHub: [@RodrigoBellanti](https://github.com/rodrigobellanti)
-- LinkedIn: [Rodrigo Bellanti](https://linkedin.com/in/rodrigobellanti)
+- LinkedIn: [Rodrigo Bellanti](https://linkedin.com/in/rodrigo-bellanti)
 - Email: rodrigobellanti@gmail.com
 
 ## 📄 License
